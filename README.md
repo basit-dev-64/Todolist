@@ -1,2 +1,2 @@
 # Todolist
-A basic todolists made using react hooks and state .
+A basic todolist made using react hooks and state .
